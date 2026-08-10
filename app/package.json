@@ -1,0 +1,9 @@
+{
+  "name": "docker-express-app",
+  "version": "1.0.0",
+  "description": "Express application inside Docker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
